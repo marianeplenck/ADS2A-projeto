@@ -1,6 +1,6 @@
 # ADS2A-projeto
 
-Tom Cruise
-Tom Hanks
-Will Smith
-Nicolas Cage
+
+malu mader
+Gloria Pires
+Vera Fisher
