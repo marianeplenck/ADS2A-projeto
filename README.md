@@ -1,5 +1,6 @@
 # ADS2A-projeto
 
 Tom Cruise
-Johnny Depp
+Tom Hanks
 Will Smith
+Nicolas Cage
